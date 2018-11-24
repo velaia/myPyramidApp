@@ -45,6 +45,10 @@
                             href="https://webchat.freenode.net/?channels=pyramid">IRC Channel</a></li>
                     <li><i class="glyphicon glyphicon-home icon-muted"></i><a href="http://pylonsproject.org">Pylons
                         Project</a></li>
+                    <li>
+                        <i class="glyphicon glyphicon-home icon-muted"></i><a
+                            href="http://twitter.com/farnamstreet">@farnamstreet</a>
+                    </li>
                 </ul>
             </div>
         </div>
