@@ -1,0 +1,3 @@
+[run]
+source = mypyramidapp
+omit = mypyramidapp/test*
